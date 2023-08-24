@@ -1,8 +1,6 @@
 # 学生信息管理系统
 
-扫描下方 ，回复“**学生9**”，获取源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+[点击这里链接，查看所有学生管理系统](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjM1MjM0Ng==&action=getalbum&album_id=2544356222163189761&scene=21#wechat_redirect)
 
 ## 1、项目介绍
 
@@ -72,8 +70,6 @@ eclipse、idea、MyEclipse
 ### 4.7文档目录
 
 ![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208152135557.jpg)
-
-## 5、视频演示
 
 
 
