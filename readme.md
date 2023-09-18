@@ -1,6 +1,6 @@
 # 学生信息管理系统
 
-[点击这里链接，查看所有学生管理系统](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjM1MjM0Ng==&action=getalbum&album_id=2544356222163189761&scene=21#wechat_redirect)
+## [点击这里链接，查看所有学生管理系统](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjM1MjM0Ng==&action=getalbum&album_id=2544356222163189761&scene=21#wechat_redirect)
 
 ## 1、项目介绍
 
