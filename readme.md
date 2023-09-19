@@ -1,7 +1,7 @@
 # 学生信息管理系统
 
 ## [点击这里链接，查看所有学生管理系统](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjM1MjM0Ng==&action=getalbum&album_id=2544356222163189761&scene=21#wechat_redirect)
-
+## [点击这里文字，查看各种各样的Javaweb项目](https://mp.weixin.qq.com/s?__biz=MzkwMjM1MjM0Ng==&mid=2247499618&idx=1&sn=7fbfae050de075125161baf7ec9cd8ba&chksm=c0a463d7f7d3eac1159f234a4f6c1e22f4847b7d7ea3f7c12bccc4548984c02bb83c53f16eaf#rd)
 ## 1、项目介绍
 
 学生信息管理系统拥有三种角色，分别为学生、教师和管理员，功能更加完善，可以作为初学者参照学习课程设计。
